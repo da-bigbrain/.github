@@ -1,8 +1,5 @@
-## Hi there 👋
 # Neuro Focus Orgization Directory:
-
 ## Ongoing Projects
-
 ### Firmware & Hardware Repo
 
 - [Firmware](https://github.com/da-bigbrain/esp32_c3_mqtt) - ESP32C3 supermini chip arduino code
