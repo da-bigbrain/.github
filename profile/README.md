@@ -10,7 +10,7 @@
 
 ### Software Repo
 
-- [Backend](https://github.com/da-bigbrain/nf_backend_mqtt_featured_with_esp32) - Subscribe MQTT that published to broker server at `nf.enk.icu`, and process DFT(Discrete Fourier Transform) with function called fft(), emits to frontend using socket.io
+- [Backend](https://github.com/da-bigbrain/nf_backend_mqtt_featured_with_esp32) - Subscribe MQTT that published to broker server at `nf.enk.icu`, and process fft(), emits to frontend using socket.io
 
 
 
