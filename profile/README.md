@@ -1,7 +1,7 @@
 # Neuro Focus Orgization Directory:
 ## Ongoing Projects
 ### Firmware & Hardware Repo
-- NeuroFocus V2 Arduino BLE [ARDUINO BLE CODE](https://github.com/da-bigbrain/arduino-nano-ble/blob/main/arduino-ble/arduino-ble.ino)
+## - NeuroFocus V2 Arduino BLE [ARDUINO BLE CODE](https://github.com/da-bigbrain/arduino-nano-ble/blob/main/arduino-ble/arduino-ble.ino)
 - [Firmware](https://github.com/da-bigbrain/esp32_c3_mqtt) - ESP32C3 supermini chip arduino code
   - Note: `This one needs some automation, and it doesn't read EEG data and send to server yet`
 - [PCB and CAD](https://github.com/da-bigbrain/cad) - PCB and CAD files
