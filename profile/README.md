@@ -31,3 +31,6 @@ Photos: https://da-bigbrain.github.io/photos
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ![og](https://github.com/user-attachments/assets/ea886c5e-c19a-48fe-8656-f74670de57e0)
+
+
+![image](https://github.com/user-attachments/assets/61a96aca-d341-4921-af22-ef3519fe8287)
